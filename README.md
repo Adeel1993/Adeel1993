@@ -32,8 +32,6 @@ I love data!!
 
 <a href="http://www.github.com/Adeel1993"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeel1993&stroke=14b8a6&background=000000&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/Adeel1993"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Adeel1993&bg_color=000000&color=14b8a6&line=facc15&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Adeel1993/New-York-City-Taxi-Limousine-Commission" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adeel1993&repo=New-York-City-Taxi-Limousine-Commission&title_color=84cc16&text_color=14b8a6&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Adeel1993/Analyzing-Banking-Trends-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adeel1993&repo=Analyzing-Banking-Trends-&title_color=84cc16&text_color=14b8a6&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
